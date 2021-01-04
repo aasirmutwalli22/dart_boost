@@ -1,1 +1,11 @@
 library dart_boost;
+export 'src/bool.dart';
+export 'src/double.dart';
+export 'src/dynamic.dart';
+export 'src/function.dart';
+export 'src/int.dart';
+export 'src/kt.dart';
+export 'src/map.dart';
+export 'src/object.dart';
+export 'src/string.dart';
+export 'src/u_int8_list.dart';
