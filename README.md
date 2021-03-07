@@ -1,8 +1,18 @@
-A library for Dart developers.
+# dart_boost
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+## install dependecy
+```yaml
+dependencies:
+  flutter_boost:
+    git:
+      url: https://github.com/aasirmutwalli22/flutter_boost.git
+```
+## import package
+```dart
+import 'package:dart_boost/dart_boost.dart';
+```
 
 ## Usage
 ```dart
+
 ```
